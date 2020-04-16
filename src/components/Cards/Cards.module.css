@@ -1,0 +1,45 @@
+@import url('https://mmwebfonts.comquas.com/fonts/?font=GHKKengtung');
+@import url('https://mmwebfonts.comquas.com/fonts/?font=pyidaungsu');
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 50px 0;
+}
+
+.chanFont {
+    font-family: 'GHK KengTung' !important;
+    font-size: 2rem !important;
+    letter-spacing: 2px;
+    color: #000 !important;
+}
+
+.chanFont2 {
+    font-family: Pyidaungsu !important;
+    font-weight: bold !important;
+    font-size: 1rem;
+}
+
+.card {
+    margin: 0 2% !important;
+    width: 400px !important;
+}
+
+.infected {
+    border-bottom: 10px solid rgba(255, 16, 135, 0.664);
+}
+
+.recovered {
+    border-bottom: 10px solid rgba(0, 255, 0, 0.5);
+}
+
+.deaths {
+    border-bottom: 10px solid rgba(255, 0, 0);
+}
+
+@media only screen and (max-width: 770px) {
+    .card {
+        margin: 2% 0 !important;
+    }
+}

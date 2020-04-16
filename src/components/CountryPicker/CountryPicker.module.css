@@ -1,0 +1,10 @@
+@import url('https://mmwebfonts.comquas.com/fonts/?font=pyidaungsu');
+
+.formControl {
+    width: 30%;
+    margin-bottom: 30px !important;
+
+    font-family: Pyidaungsu !important;
+    font-weight: bold !important;
+    font-size: 1rem;
+}
