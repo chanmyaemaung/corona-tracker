@@ -1,7 +1,7 @@
 ## COVID-19 Tracker
 # ![COVID-19 Tracker](https://i.imgur.com/AqUv0cX.png)
 
-### [Live Site](https://covid19statswebsite.netlify.com/)
+### [Live Site](https://elated-mayer-2544be.netlify.app/)
 
 ## Introduction
 This is a code repository for the corresponding video tutorial. 
