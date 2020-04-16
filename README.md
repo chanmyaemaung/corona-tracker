@@ -1,7 +1,7 @@
 ## COVID-19 Tracker
 # ![COVID-19 Tracker](https://i.imgur.com/AqUv0cX.png)
 
-### [Live Site](https://chinapoe.netlify.app/)
+### [Live Site](https://cvirus19.netlify.app/)
 
 ## Introduction
 This is a code repository for the corresponding video tutorial. 
